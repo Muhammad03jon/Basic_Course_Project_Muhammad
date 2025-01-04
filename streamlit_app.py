@@ -24,9 +24,6 @@ with st.expander('Data'):
 
   st.dataframe(X_raw)
 
-
-with st.sidebar:
- st.header("Введите признаки")
  
 
   st.write("y")
